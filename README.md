@@ -2,7 +2,11 @@
 
 This is a Movie Rental System for a local movie store. It consists of two sides, client and server running as seperate projects  
 This part of th project is one part of a Movie rental System (DVDRentalClient + DVDRentalServer = Movie Rental System). This is the 
-client side of the project where the user interacts with the server. 
+client side of the project where the user interacts with the server.
+
+====================================================================================================================
+################ You need to Open both RentalServer and Rental Client as seperate Intellij projects ################
+====================================================================================================================
 
 First things first:
 *In order to execute this project, you first have to run the server (Run on the 'Server' file)
